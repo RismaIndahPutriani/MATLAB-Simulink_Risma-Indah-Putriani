@@ -1,1 +1,1 @@
-# MATLAB-Simulink_Risma-Indah-Putriani
+# MATLAB-Simulink_RismaIndahPutriani
